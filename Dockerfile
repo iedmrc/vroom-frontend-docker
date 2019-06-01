@@ -1,4 +1,5 @@
 FROM node:slim
+LABEL maintainer="Ibrahim Ethem DEMIRCI <https://ibrahim.demirci.com>"
 
 WORKDIR /
 
